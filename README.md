@@ -70,18 +70,31 @@ Push Notifications: Receive daily or weekly summaries and budget alerts.
 ## Example Usage
 
 Configure Income:
+
 /config
+
 Set Budget:
+
 /set_budget 500 rent
+
 Log Income:
+
 /log income 1000 salary
+
 Log Expense:
+
 /log expense 200 rent
+
 View Summary:
+
 /summary
+
 Enable Notifications:
+
 /notifyon
+
 Disable Notifications:
+
 /notifyoff
 
 The bot stores user data (income, expenses, budgets, notifications) in a JSON file (user_data.json).

@@ -31,27 +31,27 @@ Push Notifications: Receive daily or weekly summaries and budget alerts.
 
 1. Install the required libraries with the following command:
    
-pip install python-telegram-bot
+   pip install python-telegram-bot
 
 3. Set Up Your Telegram Bot
 
-Open BotFather in Telegram.
+   Open BotFather in Telegram.
 
-Create a new bot and get the API token.
+   Create a new bot and get the API token.
 
-Replace the YOUR_API_KEY placeholder in the code with your actual bot token.
+   Replace the YOUR_API_KEY placeholder in the code with your actual bot token.
 
 3. Run the Bot
 
-Once everything is set up, you can run the bot using the following command:
+   Once everything is set up, you can run the bot using the following command:
 
-python financial_planner_bot.py
+   python financial_planner_bot.py
 
-The bot will start and be available for interaction on Telegram.
+   The bot will start and be available for interaction on Telegram.
 
 4. Interacting with the Bot
 
-Once the bot is running, here are the key commands you can use:
+   Once the bot is running, here are the key commands you can use:
 
 /start: Start interacting with the bot.
 

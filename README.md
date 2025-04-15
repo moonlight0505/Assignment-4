@@ -53,19 +53,19 @@ Push Notifications: Receive daily or weekly summaries and budget alerts.
 
    Once the bot is running, here are the key commands you can use:
 
-/start: Start interacting with the bot.
+   /start: Start interacting with the bot.
 
-/help: Get a list of all available commands.
+   /help: Get a list of all available commands.
 
-/config: Configure your income and budgets.
+   /config: Configure your income and budgets.
 
-/log: Log income or expenses under a category.
+   /log: Log income or expenses under a category.
 
-/summary: View your balance and budget summary.
+   /summary: View your balance and budget summary.
 
-/notifyon: Enable daily or weekly notifications.
+   /notifyon: Enable daily or weekly notifications.
 
-/notifyoff: Disable notifications.
+   /notifyoff: Disable notifications.
 
 ## Example Usage
 

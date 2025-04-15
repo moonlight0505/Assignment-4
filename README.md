@@ -11,7 +11,7 @@ View Balance & Budget Summaries: View your financial balance and budget status.
 
 Push Notifications: Receive daily or weekly summaries and budget alerts.
 
-Commands:
+## Commands:
 
 /start: Start the bot and display available commands.
 
@@ -27,7 +27,8 @@ Commands:
 
 /notifyoff: Disable notifications.
 
-Setup Instructions:
+## Setup Instructions:
+
 1. Install the required libraries with the following command:
 pip install python-telegram-bot
 
@@ -58,7 +59,8 @@ Once the bot is running, here are the key commands you can use:
 
 /notifyoff: Disable notifications.
 
-Example Usage
+## Example Usage
+
 Configure Income:
 /config
 Set Budget:

@@ -1,7 +1,8 @@
 # Financial Planner Bot
 A simple Telegram bot to help users manage their finances by logging income, setting budgets, viewing financial summaries, and receiving daily/weekly notifications. The link to the bot: http://t.me/myfinaceplan_bot (you can create yours)
 
-Features:
+## Features:
+
 Configure Income & Budgets: Set income and budgets for different categories.
 
 Log Income & Expenses: Log income and expenses under specific categories.
